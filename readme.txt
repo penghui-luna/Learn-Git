@@ -1,3 +1,3 @@
 Git is a distribute version control system
-Git is free software
-version is 2.0
+Git is free software distributed under the GPL
+version is 3.0
