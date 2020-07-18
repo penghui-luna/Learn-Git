@@ -1,4 +1,0 @@
-this is a License file
-test huan cun qu
-this is stupid!!!
-version is 2.0
